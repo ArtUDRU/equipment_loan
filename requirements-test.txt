@@ -1,0 +1,2 @@
+# Optional: local PostgreSQL regression test only. Not required to run Flutter.
+psycopg2-binary>=2.9,<3
